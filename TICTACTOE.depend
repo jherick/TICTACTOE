@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1358838154 source:c:\users\lenovo\desktop\codeblocks\tictactoe\player.cpp
+	"player.h"
+	"Game.h"
+
+1358838179 c:\users\lenovo\desktop\codeblocks\tictactoe\player.h
+	<string>
+	<iostream>
+
+1359026470 source:c:\users\lenovo\desktop\codeblocks\tictactoe\game.cpp
+	"Game.h"
+	"player.h"
+	"Board.h"
+
+1358865446 c:\users\lenovo\desktop\codeblocks\tictactoe\game.h
+	"player.h"
+	"Board.h"
+	<iostream>
+
+1359025973 c:\users\lenovo\desktop\codeblocks\tictactoe\board.h
+	<iostream>
+	<cstdlib>
+
+1359026020 source:c:\users\lenovo\desktop\codeblocks\tictactoe\a.main.cpp
+	<iostream>
+	"Game.h"
+
+1359025973 source:c:\users\lenovo\desktop\codeblocks\tictactoe\board.cpp
+	"Board.h"
+	"Player.h"
+	"Game.h"
+
+1359029360 source:f:\5555\arararwraw\3\tictactoe\game.cpp
+	"Game.h"
+	"player.h"
+	"Board.h"
+
+1359029240 f:\5555\arararwraw\3\tictactoe\game.h
+	"player.h"
+	"Board.h"
+	<iostream>
+
+1359028860 f:\5555\arararwraw\3\tictactoe\player.h
+	<string>
+	<iostream>
+
+1359028944 f:\5555\arararwraw\3\tictactoe\board.h
+	<iostream>
+	<cstdlib>
+
+1359026022 source:f:\5555\arararwraw\3\tictactoe\a.main.cpp
+	<iostream>
+	"Game.h"
+
+1359028902 source:f:\5555\arararwraw\3\tictactoe\player.cpp
+	"player.h"
+
+1359028942 source:f:\5555\arararwraw\3\tictactoe\board.cpp
+	"Board.h"
+	"Player.h"
+	"Game.h"
+
